@@ -118,8 +118,12 @@
   .small-btn {
     padding: 8px 15px;
     font-size: 0.9rem;
-    
   }
+  .small-btn:hover {
+    background: transparent;
+    color: var(--primary-color)
+  }
+  
   
   /* Header */
   header {
